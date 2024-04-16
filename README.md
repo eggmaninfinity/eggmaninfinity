@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua Rutter
-- 👀 I’m interested in Cybersecurity and software development.
+- 👀 I’m interested in art, cybersecurity and software development.
 - 🌱 I’m currently learning Python.
 - 📫 You can reach me here.
 - 😄 Pronouns: He/him
